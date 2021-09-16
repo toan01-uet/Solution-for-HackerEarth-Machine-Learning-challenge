@@ -57,6 +57,7 @@ For example: with <code>Follow-up</code> feature:  High --> 2, Low ---> 1
       df["z_dimen"] = np.sin(lat) 
     </code>
 ## Create IS_NULL some impact features
+## Target Encoding
 ## USING SMOTE TO DEAL WITH IMBALANCE DATASET
 # MODEL
 Because time was limit, so I had choose [autoML] (https://github.com/mljar/mljar-supervised) for model.
