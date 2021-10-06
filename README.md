@@ -60,4 +60,5 @@ For example: with <code>Follow-up</code> feature:  High --> 2, Low ---> 1
 ## Target Encoding
 ## USING SMOTE TO DEAL WITH IMBALANCE DATASET
 # MODEL
-Because time was limit, so I had choose [autoML] (https://github.com/mljar/mljar-supervised) for model.
+Because time was limit, so I had choose [autoML] (https://github.com/mljar/mljar-supervised) for model. 
+And this is [source code](https://www.kaggle.com/thnhtonvng/ensemble) about my solution.
