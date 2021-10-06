@@ -2,10 +2,10 @@
 HackerEarth Machine Learning challenge: Of Genomes And Genetics [link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-genetic-testing/).
 # Why I took part in this competition?
 Because: 
-- I have wanted to practice some feature engineering techniques about tabular data, ensemble,... that I found in Kaggle [link](https://www.kaggle.com/vbmokin/data-science-for-tabular-data-advanced-techniques).
+- I have wanted to practice some feature engineering techniques about tabular data, ensemble,... that I found on Kaggle [link](https://www.kaggle.com/vbmokin/data-science-for-tabular-data-advanced-techniques).
 - I have wanted to take part in a competition which was ongoing. That has made me feel like I'm taking part in the Olympics in which a lot of competitors have to compete against each other.
 # Time to complete 
-That time when I found this [competition](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-genetic-testing/), It still had 1 week to close. So my work still had concentrated on [EDA](https://www.kaggle.com/thnhtonvng/eda-hacker-earthcompe/data) and Feature engineering. In this post, I will share how I did feature engineering.
+That time when I found this [competition](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-genetic-testing/), It still had 1 week to close. So my work still had concentrated on [EDA](https://www.kaggle.com/thnhtonvng/eda-hacker-earthcompe/notebook) and Feature engineering. In this post, I will share how I did feature engineering.
 # Train and Test
 When performing Label Encoding below, you must encode train and test together ([reference from](https://www.kaggle.com/c/ieee-fraud-detection/discussion/108575))
 # Feature Engineering Techniques
